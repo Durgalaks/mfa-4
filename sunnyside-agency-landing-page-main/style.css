@@ -1,0 +1,56 @@
+.part-1 ul {
+  display: flex;
+  justify-content: right;
+  list-style: none;
+  gap: 70px;
+  color: white;
+  font-size: 30px;
+}
+.logo {
+  height: 20px;
+  /* margin-top: 300px; */
+  margin-right: 900px;
+}
+.h-1 {
+  display: flex;
+  justify-content: center;
+  font-size: 100px;
+  color: white;
+  margin-top: 100px;
+}
+.img-1 {
+  height: 1000px;
+  width: 1700px;
+  margin-left: 90px;
+}
+.ul-1 {
+  margin-top: -950px;
+  margin-right: 90px;
+}
+.btn-1 {
+  height: 40px;
+  width: 100px;
+  border-radius: 20px;
+  border: none;
+}
+.part-2 {
+  /* display: flex; */
+  margin-top: 700px;
+  margin-left: 330px;
+  /* grid-column: 40px; */
+}
+.h-2 {
+  font-size: 40px;
+}
+.para {
+  margin-top: px;
+  /* margin-right: 700px; */
+  display: flex;
+}
+.img-2 {
+  margin-left: -100px;
+  height: 800px;
+  width: 800px;
+  margin-left: 660px;
+  margin-top: -190px;
+}
